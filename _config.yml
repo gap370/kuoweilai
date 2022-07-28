@@ -1,8 +1,4 @@
 theme: jekyll-theme-minimal
 title: [Kuo-Wei Lai]
+logo: https://github.com/gap370/kuoweilai/blob/gh-pages/images/kuoweilai.jpg
 
-author:
-  name             : "Kuo-Wei Lai"
-  avatar           : "https://github.com/gap370/kuoweilai/blob/gh-pages/images/kuoweilai.jpg"
-  bio              : "Hello"
-  location         : "Atlanta, GA"
